@@ -10,3 +10,4 @@ added a script to del a file
 added a script to del a di
 added a new scipt to  change to previous dir
 added a new script to display more hidden files
+added a new script to display the type of file 
