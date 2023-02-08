@@ -7,3 +7,4 @@ added a new script to show file digits
 added a new script to create a new dir in the /tmp dir
 added a new script to move a file between dirs
 added a script to del a file
+added a script to del a dir
