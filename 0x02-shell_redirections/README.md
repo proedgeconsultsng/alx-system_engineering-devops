@@ -19,3 +19,5 @@ Created script to return letters
 Created script to replace xters
 Created script to replace and delete
 Createdscript to reverse word
+
+Created script to print users and home dirs
