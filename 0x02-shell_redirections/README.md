@@ -8,3 +8,4 @@ Ceated a script to return line 3 only
 Createda script to create a file with special xters
 Created a script to list file in a new file
 Created a script to duplicate last line
+Created a script to delete all js files
