@@ -18,3 +18,4 @@ Created a script to return patternwith optioreatedscript to return inverse
 Created script to return letters
 Created script to replace xters
 Created script to replace and delete
+Createdscript to reverse word
