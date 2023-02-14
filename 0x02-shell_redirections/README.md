@@ -22,3 +22,4 @@ Createdscript to reverse word
 
 Created script to print users and home dirs
 Created a script to print empty dirs
+Created script to print all .gif files
