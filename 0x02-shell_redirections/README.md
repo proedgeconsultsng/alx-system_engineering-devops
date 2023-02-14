@@ -6,3 +6,4 @@ Created a script to returnlast 10 lines
 Created a script to return first 10 lines
 Ceated a script to return line 3 only
 Createda script to create a file with special xters
+Created a script to list file in a new file
