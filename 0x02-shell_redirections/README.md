@@ -12,3 +12,4 @@ Created a script to delete all js files
 Created a script to count number of dirs and sub dirs
 Created ascript to return the latest files
 Createdscript to return unique values
+Created  script toreturn root
