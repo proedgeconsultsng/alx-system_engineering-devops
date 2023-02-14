@@ -21,3 +21,4 @@ Created script to replace and delete
 Createdscript to reverse word
 
 Created script to print users and home dirs
+Created a script to print empty dirs
