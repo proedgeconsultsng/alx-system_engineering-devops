@@ -13,3 +13,4 @@ script 12 -  binary to decimal
 script 13 - combinations
 script 14 - print decimal points
 script 15 - decimal to hexadecimal
+script 16 - rot13
