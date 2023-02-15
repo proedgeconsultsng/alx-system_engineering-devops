@@ -9,3 +9,4 @@ script 8 - - global variable
 script 9 -  playing with vars
 script 10 - playing with more vars
 script 11 - more vars
+script 12 -  binary to decimal
