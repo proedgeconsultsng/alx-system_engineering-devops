@@ -4,3 +4,4 @@ script 3 - modify PATH
 script 4 - count directories
 script 5 - print environmement variables
 script 6 - using set
+script 7 - variable creation
