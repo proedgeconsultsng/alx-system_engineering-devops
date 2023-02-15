@@ -6,3 +6,4 @@ script 5 - print environmement variables
 script 6 - using set
 script 7 - variable creation
 script 8 - - global variable
+script 9 -  playing with vars
