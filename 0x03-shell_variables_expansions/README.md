@@ -15,4 +15,4 @@ script 14 - print decimal points
 script 15 - decimal to hexadecimal
 script 16 - rot13
 script 17 - paste command
-script 18 - behlnort
+script 18 - bestcol
